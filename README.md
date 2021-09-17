@@ -1,2 +1,1 @@
 # Mypyutilities
-My python utilites.
